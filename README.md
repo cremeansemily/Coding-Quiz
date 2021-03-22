@@ -18,3 +18,6 @@ WHEN the game is over
 THEN I can save my initials and score
 Mock-Up
 The following animation demonstrates the application functionality:
+
+
+https://courses.bootcampspot.com/courses/538/files/486069/preview
