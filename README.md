@@ -20,4 +20,4 @@ Mock-Up
 The following animation demonstrates the application functionality:
 
 
-https://courses.bootcampspot.com/courses/538/files/486069/preview
+https://raw.githubusercontent.com/cremeansemily/Coding-Quiz/main/assets/04-web-apis-homework-demo.gif
