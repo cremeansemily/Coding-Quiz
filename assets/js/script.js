@@ -2,12 +2,12 @@
 var questions = [
     {
         title: "Which of the following is NOT a good reason for version control?",
-        choices: ["Version control allows the codebase to be modified and tested without interrupting the user experience.", "Version control allows changes to the codebase to be tested individually.", "Version control allows teams to work on individual features synchronously.", "Version control allows features to ship directly to the main branch."],
+        choices: ["1. Version control allows the codebase to be modified and tested without interrupting the user experience.", "2. Version control allows changes to the codebase to be tested individually.", "3. Version control allows teams to work on individual features synchronously.", "4. Version control allows features to ship directly to the main branch."],
         answer: "Version control allows features to ship directly to the main branch."
     },
     {
         title: "If you are currently on the develop branch. Which of the following commands does NOT switch to a new branch?",
-        choices: ["git checkout main", "git checkout -b feature/header", "git branch feature/header"],
+        choices: ["1. git checkout main", "2. git checkout -b feature/header", "3. git branch feature/header"],
         answer: "git branch feature/header"
     },
     {
@@ -17,12 +17,12 @@ var questions = [
     },
     {
         title: "How can you add more than one class to an HTML element?",
-        choices: ["Add a second class attribute", "Add a comma between the class names","Add a space between the class names","Add a class-2 attribute"],
+        choices: ["1. Add a second class attribute", "2. Add a comma between the class names","3. Add a space between the class names","4. Add a class-2 attribute"],
         answer: "Add a space between the class names"
     },
     {
         title: "What CSS declaration could you add to a 50%-width <div> to center it?",
-        choices: ["text-align: center", "margin: 0 auto", "float: center", "align: center"],
+        choices: ["1. text-align: center", "2. margin: 0 auto", "3. float: center", "4. align: center"],
         answer: "margin: 0 auto"
     },
 
