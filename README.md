@@ -20,4 +20,4 @@ Mock-Up
 The following animation demonstrates the application functionality:
 
 
-https://raw.githubusercontent.com/cremeansemily/Coding-Quiz/main/assets/04-web-apis-homework-demo.gif
+https://github.com/cremeansemily/Coding-Quiz/blob/main/assets/04-web-apis-homework-demo.gif?raw=true
